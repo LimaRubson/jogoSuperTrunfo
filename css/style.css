@@ -1,0 +1,297 @@
+body {
+    color: white;
+}
+body.style-fundo {
+    background-image: url("../img/fundo_01.jpg");
+    background-position: center top;
+    background-size: 100% auto; 
+}
+#fundo-tutorial {
+    background-image: url("../img/fundo-tutorial-06.png");
+    background-repeat: no-repeat;
+}
+#start-button {
+    height: 220px;
+    width: 200px;
+    position: absolute;
+    top: 1%;
+    left: -28%;
+    right:28%;
+}
+#tutorial-button {
+    height: 220px;
+    width: 200px;
+    position: absolute;
+    top: 1%;
+    left: 28%;
+    right: 67%;
+}
+#style-hand-02 {
+    height: 130px;
+    width: 150px;
+    position: absolute;
+    top: 79%;
+    left: 0%;
+    right: 39%;
+}
+#style-paw-02 {
+    height: 130px;
+    width: 150px;
+    position: absolute;
+    top: 80%;
+    left: 88%;
+    right: 30%;    
+}
+#style-hand { 
+    height: 130px;
+    width: 150px;
+    position: absolute;
+    top: 2%;
+    left: 88%;
+    right: 25%;
+}
+#style-paw {
+    height: 130px;
+    width: 150px;
+    position: absolute;
+    top: 2%;
+    left: 0%;
+    right: 25%;
+}
+#style-sun {
+    height:100px;
+    width: 85px;        
+    position: absolute;            
+    top: 17%; 
+    left: 64%;                
+    right: 89%;                 
+}
+#style-moon {
+    height: 100px;
+    width: 85px;
+    position: absolute;
+    top: 17%;
+    left: 31%;
+    right:100%;
+}
+body.style-fundo_primeira_fase {
+    width: 100%;
+    height: auto;
+    background-image: url("../img/fundo_07.png");
+    background-repeat: no-repeat;
+    
+}
+button#style-button-play {
+    background: transparent;
+}
+#style-button-embaralhar {
+    height: 220px;
+    width: 200px;
+    position: absolute;
+    top: -8%;
+    left: -5%;
+    right: 50%;
+}
+.style-display-images {
+    display: none;
+}
+.style-display-images {
+    position: absolute;
+    left: 35%; 
+    top:20%
+}
+.style-title-game {
+    text-align: center;
+}
+h1.style-title-game {
+    font-size: 60px;
+    color: darkblue;
+}
+.style-title-tutorial {
+    text-align: center;
+}
+h2.style-title-game {
+    font-size: 40px;
+    color: darkgreen;
+}
+div.button-center {
+    margin: auto;
+    position: absolute;
+    top: 40%; bottom: 0;
+    left: 45%; right: 0;
+}
+div.logo-center {
+    margin: auto;
+    position: absolute;
+    top: 0; bottom: 0;
+    left: 28%; right: 0;
+}
+#cpu_01 {
+    height: auto;
+    width: 110px;
+    position: absolute;
+    top: 1%;
+    left: 1%;
+}
+#cpu_02 {
+    height: auto;
+    width: 110px;
+    position: absolute;
+    top: 1%;
+    left: 9%;
+}
+#cpu_03 {
+    height: auto;
+    width: 110px;
+    position: absolute;
+    top: 1%;
+    left: 17%;
+}
+#cpu_04 {
+    height: auto;
+    width: 110px;
+    position: absolute;
+    top: 1%;
+    left: 25%;
+}
+#cpu_05 {
+    height: auto;
+    width: 110px;
+    position: absolute;
+    top: 1%;
+    left: 33%;
+}
+#cpu_06 {
+    height: auto;
+    width: 110px;
+    position: absolute;
+    top: 1%;
+    left: 41%;
+}
+#cpu_07 {
+    height: auto;
+    width: 110px;
+    position: absolute;
+    top: 1%;
+    left: 49%;
+}
+#cpu_08 {
+    height: auto;
+    width: 110px;
+    position: absolute;
+    top: 1%;
+    left: 57%;
+}
+#cpu_09 {
+    height: auto;
+    width: 110px;
+    position: absolute;
+    top: 1%;
+    left: 65%;
+}
+#cpu_10 {
+    height: auto;
+    width: 110px;
+    position: absolute;
+    top: 1%;
+    left: 73%;
+}
+#cpu_11 {
+    height: auto;
+    width: 110px;
+    position: absolute;
+    top: 1%;
+    left: 81%;
+}
+#cpu_12 {
+    height: auto;
+    width: 110px;
+    position: absolute;
+    top: 1%;
+    left: 89%;
+}
+
+#usuario_01 {
+    height: auto;
+    width: 110px;
+    position: absolute;
+    top: 77%;
+    left: 1%;
+}
+#usuario_02 {
+    height: auto;
+    width: 110px;
+    position: absolute;
+    top: 77%;
+    left: 9%;
+}
+#usuario_03 {
+    height: auto;
+    width: 110px;
+    position: absolute;
+    top: 77%;
+    left: 17%;
+}
+#usuario_04 {
+    height: auto;
+    width: 110px;
+    position: absolute;
+    top: 77%;
+    left: 25%;
+}
+#usuario_05 {
+    height: auto;
+    width: 110px;
+    position: absolute;
+    top: 77%;
+    left: 33%;
+}
+#usuario_06 {
+    height: auto;
+    width: 110px;
+    position: absolute;
+    top: 77%;
+    left: 41%;
+}
+#usuario_07 {
+    height: auto;
+    width: 110px;
+    position: absolute;
+    top: 77%;
+    left: 49%;
+}
+#usuario_08 {
+    height: auto;
+    width: 110px;
+    position: absolute;
+    top: 77%;
+    left: 57%;
+}
+#usuario_09 {
+    height: auto;
+    width: 110px;
+    position: absolute;
+    top: 77%;
+    left: 65%;
+}
+#usuario_10 {
+    height: auto;
+    width: 110px;
+    position: absolute;
+    top: 77%;
+    left: 73%;
+}
+#usuario_11 {
+    height: auto;
+    width: 110px;
+    position: absolute;
+    top: 77%;
+    left: 81%;
+}
+#usuario_12 {
+    height: auto;
+    width: 110px;
+    position: absolute;
+    top: 77%;
+    left: 89%;
+}
