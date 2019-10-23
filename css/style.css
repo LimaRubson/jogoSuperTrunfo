@@ -1,5 +1,6 @@
 body {
     color: white;
+    padding: 0 70px 0 70px;
 }
 body.style-fundo {
     background-image: url("../img/fundo_01.jpg");
@@ -107,8 +108,21 @@ h1.style-title-game {
     font-size: 60px;
     color: darkblue;
 }
-.style-title-tutorial {
+.style-title-tutorial { 
+    text-align: center;  
+    font-size: 50px;
+}
+.style-how-to-play {
     text-align: center;
+    font-size: 25px;
+} 
+.style-second-topic {
+    text-align: center;
+    font-size: 25px;
+} 
+.style-first-part-of-tutorial {
+    text-align: centers;
+    font-size: 20px;
 }
 h2.style-title-game {
     font-size: 40px;
